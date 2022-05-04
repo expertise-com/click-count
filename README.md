@@ -14,5 +14,3 @@ A user can add and subtract clicks. The results of the button interactions are v
 The styling must be done in pure CSS.
 
 You can add any HTML you think is necessary for layout.
-
-You can use Google or any other reference you want during the test.
