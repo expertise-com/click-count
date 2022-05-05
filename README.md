@@ -11,7 +11,9 @@ A user can add and subtract clicks. The results of the button interactions are v
 * The buttons need a hover state and a pressed state
 
 ### Wireframe
-![click-count](https://user-images.githubusercontent.com/43013061/167003799-fa7ea601-79ae-476a-afdc-2a688d3a6719.png)
+![click-count-border](https://user-images.githubusercontent.com/43013061/167004192-b92aa993-0f4d-4511-9142-edcdd027fcca.png)
+
+
 
 #### Notes
 The styling must be done in pure CSS.
