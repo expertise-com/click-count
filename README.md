@@ -10,6 +10,9 @@ A user can add and subtract clicks. The results of the button interactions are v
 * When the click count is 0 it's black with an opacity of 0.5
 * The buttons need a hover state and a pressed state
 
+### Wireframe
+![click-count](https://user-images.githubusercontent.com/43013061/167003799-fa7ea601-79ae-476a-afdc-2a688d3a6719.png)
+
 #### Notes
 The styling must be done in pure CSS.
 
