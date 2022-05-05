@@ -7,7 +7,7 @@ A user can add and subtract clicks. The results of the button interactions are v
 * The click count and buttons interface should be centered in the window
 * When the click count is a positive number it's color is green
 * When the click count is a negative number it's color is red
-* When the click count is 0 it's black with an opacity of 0.5
+* When the click count is 0 it's black
 * The buttons need a hover state and a pressed state
 
 ### Wireframe
