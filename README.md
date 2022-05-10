@@ -8,7 +8,7 @@ A user can add and subtract clicks. The results of the button interactions are v
 * When the click count is a positive number it's color is green
 * When the click count is a negative number it's color is red
 * When the click count is 0 it's black
-* The buttons need a hover state and a pressed state
+* The buttons need a hover state and a active state
 
 ### Wireframe
 ![click-count-border](https://user-images.githubusercontent.com/43013061/167004192-b92aa993-0f4d-4511-9142-edcdd027fcca.png)
